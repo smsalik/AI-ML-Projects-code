@@ -1,5 +1,5 @@
 # AI-ML-Projects-code
-                    In this repo, I will update my small to large projects during my Artificial intelligence (AI) diploma Journey
+In this repo, I will update my small to large projects during my Artificial intelligence (AI) diploma Journey
 
 ### My Intro:
 I started my career in the domain of Business Intelligence and Data Analyst field. Worked in multiple companies with business areas like banking, manufacturing, Supply chain and Transportation industry mainly. I learned and utilized my Data engineering skills using MS SQL, MS Power BI, MS SSIS, MS Azure Datafactory, Tableau and Cloud platform like MS Azure, AWS, Oracle BI Cloud etc.
